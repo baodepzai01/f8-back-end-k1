@@ -1,8 +1,15 @@
 {
-  "dependencies": {
-    "lodash": "^4.17.21"
+  "name": "f8-back-end-offline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "parcel": "^2.9.3"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
   }
 }

@@ -1,0 +1,29 @@
+{
+    "name": "Bao Pham",
+
+    "description": "F8 - Học lập trình",
+
+    "address": ["Hoai Duc", " Hà Nội ", " Việt Nam"],
+
+    "contact": {
+      "office": "Hoai Duc ",
+
+      "phone": "0397642557",
+
+      "email": "baopham@email.com "
+    },
+
+    "profiles": [
+      " Facebook",
+
+      " Twitter",
+
+      " Instagram",
+
+      "  Linkedin",
+
+      " Stackoverflow",
+
+      " Github"
+    ]
+}
